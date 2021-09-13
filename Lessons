@@ -1,0 +1,30 @@
+LESSON 1.1 - INTRODUCTION
+
+What is Python?
+Python is a high level programming language with tons of applications.
+
+What will be covered in this course?
+Basic concepts as well as real life projects and solve different coding challenges.
+
+____________________________________________________________________________________
+
+LESSON 2.1 - HELLO WORLD
+
+In this basic program we will output the text "Hello World"
+  > We have to use the print function in ordere to output text
+
+To output text we would use the following code : 
+  > print('Hello World') ----> Hello 
+
+We could also use multiple lines of Print to outpu several lines of text, such as:
+  > print('Hello World')
+  > print('Hello World')
+  > print('Spam and Eggs...')
+
+____________________________________________________________________________________
+
+LESSON 3.1 - SIMPLE OPERATIONS
+
+The print function that we previously used can be as well used to solve simple mathematical
+operations such as:
+  > print('2 + 2') ----> 4
