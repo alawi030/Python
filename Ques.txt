@@ -1,0 +1,260 @@
+Welcher 2 Technologien lassen sich für Videoprojektoren (Beamer) unterscheiden?
+Die richtigen Antworten sind: LCD, DLP
+Welche Kühlungsart gehört zu passiven Kühlsystemen?
+Die richtige Antwort ist: Kühlkörper
+Es gibt hardware- und softwareseitige Energiesparmaßnahme beim Betrieb eines PC. Welche Maßnahme ist welchem Herstellern zuzuordnen?
+Die richtige Antwort ist: ACPI → Windows, Cool’n Quiet → AMD:, EIST → Intel
+Was genau kennzeichnet die Bildschirmergonomie?
+Die richtige Antwort ist: keine störenden Reflexionen und Blendungen
+Das Drücken der Taste [Ä] sendet an den Computer den Buchstaben "Ä"!
+Die richtige Antwort ist 'Falsch'.
+Welches sind die Vorteile von Speedstepping?
+Die richtigen Antworten sind: Die Betriebstemperatur ist geringer, Weniger Strom wird verbraucht, Die Taktrate wird lastabhängig angepasst
+Welche Aussagen sind korrekt
+Die richtigen Antworten sind: dedizierte Grafikkarten nutzen eigenen Grafikspeicher, Onboard-Grafikprozessoren nutzen Shared Memory
+Was genau kennzeichnet die Tischergonomie?
+Die richtigen Antworten sind: Die Höhe der Arbeitsfläche beträgt 72 cm, wenn der Tisch nicht höhenverstellbar ist und 68 bis 76 cm, wenn der Tisch höhenverstellbar ist., Die Tischbreite beträgt mindestens 160 cm.
+Welche ergonomischen Aspekte sind bei der Wahl einer Tastatur zu beachten?
+Die richtigen Antworten sind: Tastenabstand und Höhe, Anschlag, Form von Tastatur und Tasten, Sichtbarkeit der Tasten
+Video-DVD's können einen Ländercode besitzen.
+Die richtige Antwort ist 'Wahr'.
+Was genau kennzeichnet die Mausergonomie?
+Die richtige Antwort ist: Die ergonomische Maus entspricht der Anatomie der Hand
+Was genau kennzeichnet die Tastaturergonomie?
+Die richtigen Antworten sind: Vor der Tastatur ist eine Handauflagefläche von 5 bis 10 cm Tiefe vorhanden., Die Tasten sind frei von Reflexen und die Beschriftung ist dunkel auf hellem Hintergrund.
+Kreuzen Sie die korrekten Antworten bezüglich Digitalisierung von Audio-Signalen an
+Die richtigen Antworten sind: Abtastrate und Sampling-Rate ist das gleiche, Sampling-Tiefe bestimmt die Menge an Bit pro Abtastung
+Was genau gilt für Raumbedarf und Arbeitsplatzfläche?
+Die richtige Antwort ist: Ein Büroraum muss die Mindesthöhe von 2,50 m erreichen
+LCD bedeutet
+Die richtigen Antworten sind: Liquid Crystal Display, , dass die Wellen verwendeten Lichts die gleiche Ausrichtung haben, , dass die Kristalle in keinem starren Gitter angeordnet sind
+Das subtraktive Farbmodell hat 4 Grundfarben
+Die richtige Antwort ist 'Wahr'.
+Ordnen Sie korrekt zu Display Port 
+Die richtige Antwort ist: Display Port → unterstützt das reihenweise Verketten von Displays, DVI-I → unterstützt teilweise analoge Videosignale, VGA → unterstützt rein analoge Videosignale
+Markieren Sie die korrekten Antworten Audio
+Die richtigen Antworten sind: HD Audio ist der Nachfolger von AC'97, HD Audio und AC'97 sind Standards für eine Audioarchitektur von Intel
+Welche Qualitätsmerkmale gibt es für photoelektrische Sensoren bzw. ein Feld solcher?
+Die richtigen Antworten sind: Hohe Dynamik, Hohe Geschwindigkeiten, Verbesserte Quanteneffizienz, gute Rauscheigenschaften
+Welche Aussagen bezüglich Zeichenkodierung sind korrekt?
+Die richtigen Antworten sind: Für ein Betriebssystem kann eine Codepage gewählt werden, die dem Tastaturlayout des Anwenders entspricht., Codepages sind der Nachfolger von ASCII, da der Zeichenvorrat von ASCII bei zunehmender internationalisierung nicht mehr ausreichend war, Codepages haben 28 Plätze
+Welche Technologie zur Energieeinsparung auf Prozessorebene wurde von AMD entwickelt?
+Die richtige Antwort ist: Cool'n Quiet
+Die ASCII-Tabelle stellt 127 (27) Plätze für druckbare Zeichen und Steuerzeichen bereit!
+Es sind 128 Plätze (0-127) Die richtige Antwort ist 'Falsch'.
+Ansi-Certified-Displays sind mit Hilfe der Ansi-Certified-Display-correcten (ACDC) in der Lage den vollen RGB-Farbraum wiederzugeben!
+Die richtige Antwort ist 'Falsch'.
+Ordnene Sie korrekt zu...
+Die richtigen Antworten sind: Im additiven Farbmodell ist ein mehr an Farbe heller, Im subtraktiven Farbmodell ist ein mehr an Farbe dunkler, Im additiven Farbmodell werden Farben geleuchtet, Im subtraktiven Farbmodell werden Farben absorbiert
+Welche Ausage bezüglich DVD korrekt?
+Die richtigen Antworten sind: DVD steht für "Digital Versatile Disc", DVD nutzt optische Speichertechnologie
+Was genau kennzeichnet die Beleuchtungs-Ergonomie?
+Die richtigen Antworten sind: An den Fenstern müssen verstellbare Lichschutzvorrichtungen sein, Störende Blendungen und Spiegelungen werden durch geeignete Anbringung der Lichtquellen und Aufstellung der Arbeitsplätze und Bildschirme vermieden.
+Wie viel Bit hat ein Byte
+Die richtige Antwort ist: 8
+Markieren Sie die korrekten Aussagen
+Die richtigen Antworten sind: ADC steht für Analog-Digital-Converter, DAC steht für Digital-Analog-Converter, DSP steht für Digital-Signal-Processor, DSP verarbeitet digital Soundinformation
+Gebe die Eigenschaften von Wärmeleitpaste an.
+Die richtigen Antworten sind: Zur Kühlung des CPUs, Zur Versiegelung kleinster Partikel des Kühlers
+Was ist Ziel der Ergonomie?
+Die richtigen Antworten sind: Ihr Ziel ist es, Arbeitsplätze gesund und möglichst stressfrei zu gestalten., Arbeitnehmer sollen vor körperlichen Schäden auch bei langfristiger Ausübung ihrer Tätigkeiten geschützt werden.
+LCD (Liquid Crystal Display) ...
+Die richtigen Antworten sind: arbeiten mit gleichgerichteten Molekülstrukturen, arbeiten mit polarisiertem Licht
+Wieviele abgerundete MibiByte (lassen Sie in der Antwort die Dezimalstellen weg) an Rohdaten entstehen bei der Digitalisierung von Sound mit folgenden Ausgangsdaten:Sampling-Rate: 48,96 kHzLänge: 5 Minuten, 25 SekSampling -Tiefe: 3 ByteKanäle: 6 (5.1)Geben Sie die reine Zahl ohne Einheit, Tausendertrennzeichen oder anderen Text an.
+Die richtige Antwort ist: 273
+Welche Aussagen bezüglich des additiven Farbmodells sind korrekt
+Die richtigen Antworten sind: Farben werden hinzugefügt um die gewünschte Farbe zu erreichen, Es verwendet RGB Mischung, Es gibt 3 Grundfarben im additiven Farbmodell
+Welche Aussage ist korrekt
+Die richtigen Antworten sind: Unicode ist ein internationaler Zeichensatz, UTF bildet den Unicode Zeichensatz binär ab
+Es heißt "subtraktives" Farbmodel, weil alle Farben (Wellenlängen des Lichts) außer die sichtbare absorbiert also subtrahiert werden!
+Die richtige Antwort ist 'Wahr'.
+Bei professioneller Druckausgabe werden mindestens 300 DPI genutzt.
+Die richtige Antwort ist 'Falsch'.
+Was gehört zu den Vorteilen einer Wasserkühlung?
+Die richtigen Antworten sind: hohe Kühlleistung , geringe Lautstärke
+Wie kann man das Wohlbefinden bei der Computerarbeit erhalten?
+Die richtigen Antworten sind: Man sollte ausreichend Pausen einlegen., Man sollte sich regelmäßig strecken., Man sollte Übungen zur Augenentlastung anwenden.
+Im professionellen Bereich sind soundverarbeitende Geräte oft extern angeschlossen
+Die richtige Antwort ist 'Wahr'.
+Zu welchem Zweck werden Heatpipes verbaut?
+Die richtige Antwort ist: Heatpipes werden eingebaut, um die Wärme von erhitzten Komponenten schneller abzuleiten
+Die Abkürzung ACPI steht für?
+Die richtige Antwort ist: Advanced Configuration and Power Interface
+Ordnen Sie zu...
+Die richtige Antwort ist: Termodrucker → sehr unbeständig, Tintenstrahldrucker → Piezo, Termotransferdrucker → Wachsband, Plotter → schneiden, Laserdrucker → Toner
+Was würden sie bezüglich Ergonomie und Preis in PC für eine Kühlung verbauen.
+Die richtige Antwort ist: Großer Lüfter
+Nenne die 4 Kriterien der TCO-Zertifizierung.
+Die richtigen Antworten sind: Ergonomisch, Ökologisch, Energiesparend, Effizient
+Das BubbleJet Verfahren funktioniert mit stark erhitzter Tinte!
+Die richtige Antwort ist 'Wahr'.
+Wählen Sie die korrekten Aussagen: Land
+Die richtigen Antworten sind: Land ist hoch, Pit ist tief, Pit ist 0
+LCD Monitore arbeiten mit 2 passiven polarisiernden Schichten
+Die richtige Antwort ist 'Wahr'.
+ordnen Sie zu Bringt wachs
+Die richtige Antwort ist: Thermotransferdrucker → Bringt Wachs auf und ist sehr beständig, Thermodrucker → Ausdruck ist sehr unbeständig, Nadeldrucker → DRucken ist sehr laut, Laserdrucker → fixiert am Ende durch Erhitzung, Tintenstrahldrucker → nutzt ausschließlich flüßigen Farbstoff, Plotter → arbeitet nicht mit Punkten
+Ein Grafikprozessor hat weitaus weniger ALUs als ein Hauptprozessor
+Die richtige Antwort ist 'Wahr'.
+Für Büro PCs ist die Lautstärke eine wichtiger ergonomischer Faktor
+Die richtige Antwort ist 'Wahr'.
+Paul ist ein echter Nerd und hat Pia eine Kette aus Glasperlen geschenkt. 
+Die richtige Antwort ist: PIAUNDPAUL
+Die vom angeschlossenen Mikrofon angenommenen analogen Daten werden vom DSP in digitale Soundinformationen umgewandelt (konvertiert)
+Die richtige Antwort ist 'Falsch'.
+Markieren Sie die korrekte Antwort
+Die richtige Antwort ist: Der DSP verarbeitet die korrekte Zuordnung und Lautstärke von 5.1 Ausgaben
+Welches der folgenden Geräte sind (z.T. auch) Ausgabegeräte?
+Die richtigen Antworten sind: Touchscreen, Drucker, Bildschirm, Kopfhörer
+Markieren Sie die korrekten Antworten CPU
+Die richtigen Antworten sind: Der DAC wandelt digitale in analoge Daten, Der ADC wandelt analoge in digitale Daten
+Was genau kennzeichnet die Stuhlergonomie?
+Die richtigen Antworten sind: Der ergonomische Stuhl muss eine Sitzhöhe von 42 bis 53 cm (stufenlos) aufweisen, Der Stuhl erlaubt dynamisches Sitzen, paßt sich also den Bewegungen, insbesondere hinsichtlich der Bewegungen der Rückenlehne und des Winkels zwischen Sitzfläche und Rückenlehne, an.
+Sinnvolle Maßnahmen, um die Umwelt zu schützen, sind:
+Die richtigen Antworten sind: Den Computer, bei kurzer Abwesenheit, in den Standby-Modus bringen., Druckerpatronen wieder auffüllen., Computerteile/Verbrauchsteile recyceln lassen., Papier zum recyclen sammeln
+Um den Farbraum verschiedener Geräte einander anzupassen ...
+Die richtigen Antworten sind: können die Geräte kalibriert werden, können die Geräte standartisierte Farbpaletten verwenden
+Nadeldrucker zählen zur Gruppe der ...
+Die richtigen Antworten sind: Matrix-Drucker, Impact-Drucker
+Welche genannten sind kombinierte Ein-/Ausgabegeräte?
+Die richtigen Antworten sind: Touchscreen, Gamepad
+"C"-Zustände beschreiben die Bereitschaft von Komponenten
+Die richtige Antwort ist 'Falsch'.
+RAMDAC wird für die analoge Grafikausgabe benötigt
+Die richtige Antwort ist 'Wahr'.
+Im subtraktive Farbmodell werden welche Grundfarben verwendet?
+Cyan	Magenta	Yellow / Gelb	Karbon / Schwarz / Black
+Welcher Datenträger hat die höchste Speicherdichte
+Die richtige Antwort ist: Bluray
+Worauf sollte bei der Schreibtischarbeit (z.B. am PC) bezüglich ergonomischer Aspekte geachtet werden?
+Die richtigen Antworten sind: Auf die richtige Schreibtischhöhe., Auf das richtige Licht., Auf die richtige Bildschirmposition., Auf den richtigen Stuhl.
+Mit wieviel Bit wird im RGB-Farbmodell für Ausgabegeräte eine Voll-Farbe codiert?
+Die richtige Antwort ist: 24
+Markieren Sie die wahren Aussagen
+Die richtigen Antworten sind: DVDs werden von Innen nach Außen gelesen, Eine BluRay hat eine Breite von 120 mm, Je höher die Speicherdichte desto näher liest der Laser von der Datenträgerschicht
+Wie heisst die Energiespartechnologie von Intel zur Regelung des Prozessortaktes (Abkürzung)?
+Die richtige Antwort ist: EIST
+Welche der folgenden Geräte dienen sowohl der Digitalisierung von Daten als auch der Steuerung von Programmen?
+Die richtigen Antworten sind: Touchscreen, Tastatur, Grafiktablet
+Welche der folgenden Kühlmethoden und Technologien sind als ökonomisch einzuschätzen?
+Die richtigen Antworten sind: Passive Kühlung., Cool & Quiet (AMD)
+Kreuzen Sie die korrekten Antworten an
+Die richtigen Antworten sind: Die Grundfarben RGB werden im additiven Farbmodell verwendet, Selbstleuchtende Ausgabegeräte nutzen RGB Farben
+Kreuzen Sie die richtigen Antworten bezüglich Audio Digitalisierung an
+Die richtigen Antworten sind: Abtastrate in CD Qualität ist 44,1 kHz, Abtastrate in DVD Qualität ist 96 kHz
+Welches Wort wird für die Farbfülle von 224 (16,7 Mio) Farben verwendet
+Die richtige Antwort ist: True color
+Ein LCD Pixel besteht aus wievielen Subpixeln?
+Die richtige Antwort ist: 3
+01100101011000110110100001101111
+Die richtige Antwort ist: echo
+Ordnen den Abkürzungen die korrekte Schreibweise zu
+Die richtige Antwort ist: GPU → Graphics Processing Unit, APU → Accelerated Processing Unit, AGP → Accelerated Graphics Port, DVI → Digital Visual Interface
+Es gibt verlässliche Prüfsiegel, die die Einhaltung ergonomischer Normen garantieren. Welcher Prüfsiegel gehört nicht dazu?
+Die richtige Antwort ist: CE
+Was bedeutet abkurzung EHCI?
+Die richtige Antwort ist: Enhanced Host Controller Interface
+Das additive Farbmodell der Druckausgabe hat 4 Grundfarben
+Die richtige Antwort ist 'Falsch'.
+01110100011100100110100101101101
+Die richtige Antwort ist: trim
+Welche Grundfarben werden in Druckern verwendet
+Die richtigen Antworten sind: C - Cyan, M - Magenta, Y - Yellow, K - Karbon
+Standard LED-Displays...
+Die richtigen Antworten sind: basieren auf der LCD Technologie, nutzen lichtemitierende Dioden als Lichtquelle
+Kreuze die korrekten Antworten an:
+Die richtigen Antworten sind: Die Farben im RGB-Farbmodel werden pro Farbkanal mit 1 Byte kodiert, Im RGB Farbmodell stehen rein rechnerisch 16,7 Mio Farben 224 Farben zur Verfügung, Farben werden bei RGB in ihrem benötigten Anteil einer Vollfarben hinzugefügt, Die Farbkanäle entsprechen der Helligkeit einer Grundfarben pro Pixel und geben damit nur Helligkeitswerte wieder
+Im additiven Farbmodell werden welche Grundfarben verwendet?
+Rot / Red	Grün / Green		Blau / Blue
+Wie nennt sich Allzweck Berechnung auf Grafikprozessoreinheiten
+Die richtige Antwort ist: GPGPU
+Kreuzen Sie die korrekten Antworten bezüglich Digitalisierung von Audio-Signalen an
+Die richtigen Antworten sind: Bei der Messung der Rohdaten von Sound Amplituden werden alle Kanäle einzeln gemessen, Um Sound zu messen und zu digitalisieren werden Tonhöhe und Lautstärke berücksichtigt, Die Sampling-Rate legt die Menge an Messungen pro Sekunde fest
+Welche der folgenden Begriffe sind NICHT Bestandteil der TCO-Zertifizierung?
+Die richtigen Antworten sind: Batteriegesetz, Keymark
+Was wird unter (Intel-) Speedstepping verstanden?
+Die richtige Antwort ist: Mit Hilfe von Speedstep ändert der Prozessor seine Taktrate, also die Rechenleistung, je nach Einstellung bzw. Bedarf.
+Intels "EIST" heißt bei AMD "Cool‘n Quiet"
+Die richtige Antwort ist 'Wahr'.
+RAMDAC ist der Arbeitsspeicher der Grafikkarte
+Die richtige Antwort ist 'Falsch'.
+Welche 2 Druckverfahren haben sich für Tintenstrahldrucker etabliert?
+Die richtigen Antworten sind: Piezo, Bubble-Jet
+Ordnen Sie korrekt zu APU
+Die richtige Antwort ist: GPU ist nicht Teil einer Erweiterungskarte und nicht Teil des Prozessors → OnBoard, Im Allgemeinen leistungsstärkste Lösung → Grafikkarte, GPU ist Teil des Hauptprozessors → APU
+Piezo ist ein Kristall, der sich bei anlegen von Elektrizität stark erhitzt!
+Die richtige Antwort ist 'Falsch'.
+Wie bringt ein Laserdrucker den Toner auf Papier?
+Die richtige Antwort ist: Toner haftet stellenweise auf der Trommel → Schritt 3, Papier nimmt den Toner auf → Schritt 4, Ein Laser "schreibt" zu druckenden Information auf die statisch geladene Walze → Schritt 1, Papier wird erhitzt → Schritt 5, Die Walze kehrt stellenweise ihre statische Ladung um → Schritt 2
+Welche Aufgaben haben Eingaberäte?
+Die richtigen Antworten sind: Steuerung von Programmen und Befehlseingabe, Digitalisierung von Daten
+Was sind C-States?
+Die richtige Antwort ist: Betriebszustände des Prozessors
+Kreuzen Sie die richtige Aussage an?
+Die richtige Antwort ist: Ergonomie ist die Wissenschaft von der menschlichen Arbeit.
+300 DPI bewirken einen größeren Ausdruck als 300 DPC
+Die richtige Antwort ist 'Wahr'.
+Welche Aussage bezüglich LCD ist korrekt
+Die richtige Antwort ist: Kristalle richten sich aus bei Anliegen einer elektrischen Spannung
+20 MiB ist größer als 20 MB.
+Die richtige Antwort ist 'Wahr'.
+Wofür steht TDP?
+Die richtige Antwort ist: Thermal Design Power
+Welche der folgenden Geräte sind Eingabegeräte?
+Die richtigen Antworten sind: Touchscreen, Gamepad, Trackball, Maus
+Bezüglich der Nachteile der unterschiedlichen Druckverfahren ordnen Sie zu
+Die richtige Antwort ist: Termodruck → vergänglich, Tintenstrahler → teuer, Laserdrucker → Feinstaub
+Welches ist ein deutsches Prüfsiegel mit dem ergonomische Hardware zertifiziert sein kann?
+Die richtige Antwort ist: Blauer Engel
+Ein Kühlkörper mit Lüfter ist effizienteste und leiseste Art Prozessoren zu kühlen
+Die richtige Antwort ist 'Falsch'.
+Der Ruhezustand (STD) entspricht S3!
+Die richtige Antwort ist 'Falsch'.
+Ordnen Sie die Schritte bei der Eingabe über die Tastatur in der korrekten Reihenfolge
+Die richtige Antwort ist: Ein Zeichen wird gemäß Zeichensatz ausgegeben → 7. Schritt, Tastatureingabe erzeugt ein elektrisches Signal → 1. Schritt, Die CPU verarbeitet die Interrupt-Routine → 5. Schritt, Die Tastatureingabe wird gemäß Codepage interpretiert → 6. Schritt, Der Tastaturcontroller meldet dem Interruptcontroller eine Eingabe → 3. Schritt, Der Interruptcontroller sendet einen Interrupt an die CPU → 4. Schritt, Das Tastatursignal wird vom Tastaturcontroller empfangen → 2. Schritt
+Welche der folgenden Geräte sind Eingabegeräte?
+Die richtigen Antworten sind: Touchscreen, Gamepad, Trackball, Maus
+Piezo ist ein Kristall, der sich beim Anlegen von Elektrizität stark zusammenzieht!
+Die richtige Antwort ist 'Wahr'.
+Was genau kennzeichnet die Druckerergonomie?
+Die richtigen Antworten sind: Der Druckr druckt leise und in angemessener Geschwindigkeit, Der Drucker emittiert kein Ozon. Andernfalls befindet sich in unmittelbarer Nähe zum Drucker ein Luftabzug, und der Drucker steht mehr als 1,5 m vom normalen Arbeitsplatz entfernt.
+Shader entsprechen den ALUs der GPU
+Die richtige Antwort ist 'Falsch'.
+Wieviele Farbabstufungen kann ein (1) Farbkanal, bei Truecolor annehmen?
+Die richtige Antwort ist: 256
+Das additive Farbmodell hat 3 Grundfarben
+Die richtige Antwort ist 'Wahr'.
+TDP wurde eingeführt, um die thermische Dimensionierung eines Systems planen zu können.
+Die richtige Antwort ist 'Wahr'.
+Das subtraktive Farbmodell hat 3 Grundfarben (RGB)
+Die richtige Antwort ist 'Falsch'.
+Die Shader der GPU entsprechen den Kernen des Hauptprozessors!
+Die richtige Antwort ist 'Wahr'.
+Ordnen Sie korrekt zu LED
+Die richtigen Antworten sind: Plasma Bildschirme arbeiten mit Gas, LED Bildschirme arbeiten mit LCD, CRT Bildschirme schießen mit Elektronen
+Was heißt GPU ausgeschrieben?
+Die richtige Antwort ist: Graphics Processing Unit
+Welche Maustypen können unterschieden werden?
+Die richtigen Antworten sind: optomechanische Maus, optische Maus, Lasermaus
+Welchen Druckertyp gibt es nicht?
+Die richtigen Antworten sind: Toner-Transferdrucker, Thermo-Nuklear Drucker
+Druckerkartuschen (Toner und Tinte) können recycelt und wiederaufgefüllt werden.
+Die richtige Antwort ist 'Wahr'.
+Ordnen Sie korrekt zu SLI
+Die richtige Antwort ist: Verbund mehrerer Grafikkarten → SLI, Alter Grafikkarten-Bus → AGP, Grafikkarte Teil des Prozessors → APU
+Welche Grundfarben werden in Displays verwendet?
+Die richtigen Antworten sind: R - Red, G - Green, B - Blue
+Luftkühlung ist die einzige Möglichkeit einen Computer zu kühlen!
+Die richtige Antwort ist 'Falsch'.
+UTF und Unicode ist das Selbe!
+Die richtige Antwort ist 'Falsch'.
+"Multilayer" bedeutet, dass ein optischer Datenträger...
+Die richtige Antwort ist: in mehreren Schichten geschrieben wurde
+Kreuzen Sie die richtigen Antworten bezüglich Audio-Sampling an
+Die richtigen Antworten sind: Die Auflösung wird in Bit gemessen, Die Auflösung in CD Qualität beträgt immer 16 Bit, Die Auflösung in DVD Qualität beträgt z.B. 24 Bit, Je höher die Auflösung desto genauer die Messung der Sound-Amplitude
+Wählen Sie die korrekten Aussagen: Musik
+Die richtigen Antworten sind: Musik-CDs haben eine Abtastrate von 44,1 kHz, Musik-CDs haben eine Auflösung von 16 Bit, Die Auflösung bestimmt die Menge an Bit pro Abtastung
+Was genau gilt für Sommerhitze?
+Die richtigen Antworten sind: Die Raumtemperatur beträgt 20 bis 22°C, bei sehr hohen Außentemperaturen maximal 27°C., Der Wert der relativen Luftfeuchtigkeit liegt zwischen 50 und 65%.
+In welchem Teil einer CD wird der Beginn eines Tracks definiert
+Die richtige Antwort ist: TOC
